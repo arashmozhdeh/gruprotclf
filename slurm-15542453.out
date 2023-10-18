@@ -1,0 +1,457 @@
+Training started
+Epoch 1/400
+Training Loss: 5.2037
+Validation Loss: 3.1082
+Validation Accuracy: 0.3212, F1 Score: 0.2054, Recall: 0.2378, Precision: 0.2592
+Test Loss: 3.1824
+Test Accuracy: 0.3179, F1 Score: 0.1891, Recall: 0.2283, Precision: 0.1975
+--------------------------------------------------------------------------------
+Epoch 2/400
+Training Loss: 3.1186
+Validation Loss: 2.5028
+Validation Accuracy: 0.4192, F1 Score: 0.3234, Recall: 0.3460, Precision: 0.4123
+Test Loss: 2.5302
+Test Accuracy: 0.4276, F1 Score: 0.3172, Recall: 0.3576, Precision: 0.3376
+--------------------------------------------------------------------------------
+Epoch 3/400
+Training Loss: 2.1766
+Validation Loss: 1.1754
+Validation Accuracy: 0.7263, F1 Score: 0.6593, Recall: 0.6658, Precision: 0.7096
+Test Loss: 1.1957
+Test Accuracy: 0.7307, F1 Score: 0.6438, Recall: 0.6744, Precision: 0.6712
+--------------------------------------------------------------------------------
+Epoch 4/400
+Training Loss: 1.5007
+Validation Loss: 0.9083
+Validation Accuracy: 0.7904, F1 Score: 0.7448, Recall: 0.7451, Precision: 0.7800
+Test Loss: 0.9352
+Test Accuracy: 0.8010, F1 Score: 0.7288, Recall: 0.7456, Precision: 0.7557
+--------------------------------------------------------------------------------
+Epoch 5/400
+Training Loss: 1.2063
+Validation Loss: 0.6358
+Validation Accuracy: 0.8532, F1 Score: 0.8149, Recall: 0.8187, Precision: 0.8323
+Test Loss: 0.6482
+Test Accuracy: 0.8577, F1 Score: 0.8034, Recall: 0.8243, Precision: 0.8219
+--------------------------------------------------------------------------------
+Epoch 6/400
+Training Loss: 1.0045
+Validation Loss: 0.5724
+Validation Accuracy: 0.8663, F1 Score: 0.8328, Recall: 0.8374, Precision: 0.8534
+Test Loss: 0.5900
+Test Accuracy: 0.8681, F1 Score: 0.8198, Recall: 0.8401, Precision: 0.8361
+--------------------------------------------------------------------------------
+Epoch 7/400
+Training Loss: 0.9091
+Validation Loss: 0.4859
+Validation Accuracy: 0.8861, F1 Score: 0.8541, Recall: 0.8583, Precision: 0.8655
+Test Loss: 0.4948
+Test Accuracy: 0.8866, F1 Score: 0.8352, Recall: 0.8554, Precision: 0.8460
+--------------------------------------------------------------------------------
+Epoch 8/400
+Training Loss: 0.8234
+Validation Loss: 0.4697
+Validation Accuracy: 0.8902, F1 Score: 0.8612, Recall: 0.8670, Precision: 0.8693
+Test Loss: 0.4656
+Test Accuracy: 0.8959, F1 Score: 0.8583, Recall: 0.8738, Precision: 0.8741
+--------------------------------------------------------------------------------
+Epoch 9/400
+Training Loss: 0.7612
+Validation Loss: 0.6968
+Validation Accuracy: 0.8317, F1 Score: 0.7972, Recall: 0.8070, Precision: 0.8157
+Test Loss: 0.7008
+Test Accuracy: 0.8367, F1 Score: 0.7824, Recall: 0.8117, Precision: 0.7988
+--------------------------------------------------------------------------------
+Epoch 10/400
+Training Loss: 0.7237
+Validation Loss: 0.4153
+Validation Accuracy: 0.9018, F1 Score: 0.8773, Recall: 0.8812, Precision: 0.8873
+Test Loss: 0.4340
+Test Accuracy: 0.8990, F1 Score: 0.8530, Recall: 0.8729, Precision: 0.8632
+--------------------------------------------------------------------------------
+Epoch 11/400
+Training Loss: 0.9486
+Validation Loss: 0.4248
+Validation Accuracy: 0.9038, F1 Score: 0.8790, Recall: 0.8835, Precision: 0.8834
+Test Loss: 0.4374
+Test Accuracy: 0.9008, F1 Score: 0.8601, Recall: 0.8758, Precision: 0.8723
+--------------------------------------------------------------------------------
+Epoch 12/400
+Training Loss: 0.6753
+Validation Loss: 0.3674
+Validation Accuracy: 0.9153, F1 Score: 0.8938, Recall: 0.8968, Precision: 0.8998
+Test Loss: 0.4111
+Test Accuracy: 0.9125, F1 Score: 0.8802, Recall: 0.8941, Precision: 0.8911
+--------------------------------------------------------------------------------
+Epoch 13/400
+Training Loss: 0.6518
+Validation Loss: 0.3605
+Validation Accuracy: 0.9173, F1 Score: 0.8959, Recall: 0.9008, Precision: 0.9014
+Test Loss: 0.4005
+Test Accuracy: 0.9088, F1 Score: 0.8643, Recall: 0.8808, Precision: 0.8744
+--------------------------------------------------------------------------------
+Epoch 14/400
+Training Loss: 0.6422
+Validation Loss: 0.3321
+Validation Accuracy: 0.9245, F1 Score: 0.9031, Recall: 0.9068, Precision: 0.9071
+Test Loss: 0.3534
+Test Accuracy: 0.9230, F1 Score: 0.8865, Recall: 0.9010, Precision: 0.8947
+--------------------------------------------------------------------------------
+Epoch 15/400
+Training Loss: 0.6209
+Validation Loss: 0.3398
+Validation Accuracy: 0.9228, F1 Score: 0.9019, Recall: 0.9068, Precision: 0.9059
+Test Loss: 0.3651
+Test Accuracy: 0.9224, F1 Score: 0.8804, Recall: 0.8974, Precision: 0.8885
+--------------------------------------------------------------------------------
+Epoch 16/400
+Training Loss: 0.6072
+Validation Loss: 0.3307
+Validation Accuracy: 0.9251, F1 Score: 0.9063, Recall: 0.9106, Precision: 0.9097
+Test Loss: 0.3594
+Test Accuracy: 0.9298, F1 Score: 0.8963, Recall: 0.9092, Precision: 0.9062
+--------------------------------------------------------------------------------
+Epoch 17/400
+Training Loss: 0.5945
+Validation Loss: 0.3167
+Validation Accuracy: 0.9278, F1 Score: 0.9093, Recall: 0.9115, Precision: 0.9150
+Test Loss: 0.3487
+Test Accuracy: 0.9261, F1 Score: 0.8923, Recall: 0.9053, Precision: 0.9026
+--------------------------------------------------------------------------------
+Epoch 18/400
+Training Loss: 0.5684
+Validation Loss: 0.3039
+Validation Accuracy: 0.9310, F1 Score: 0.9116, Recall: 0.9163, Precision: 0.9151
+Test Loss: 0.3242
+Test Accuracy: 0.9310, F1 Score: 0.9023, Recall: 0.9151, Precision: 0.9126
+--------------------------------------------------------------------------------
+Epoch 19/400
+Training Loss: 0.5525
+Validation Loss: 0.2927
+Validation Accuracy: 0.9344, F1 Score: 0.9156, Recall: 0.9209, Precision: 0.9164
+Test Loss: 0.3083
+Test Accuracy: 0.9341, F1 Score: 0.9047, Recall: 0.9175, Precision: 0.9142
+--------------------------------------------------------------------------------
+Epoch 20/400
+Training Loss: 0.5463
+Validation Loss: 0.2861
+Validation Accuracy: 0.9361, F1 Score: 0.9176, Recall: 0.9221, Precision: 0.9198
+Test Loss: 0.3314
+Test Accuracy: 0.9273, F1 Score: 0.8942, Recall: 0.9084, Precision: 0.9030
+--------------------------------------------------------------------------------
+Epoch 21/400
+Training Loss: 0.5252
+Validation Loss: 0.2721
+Validation Accuracy: 0.9391, F1 Score: 0.9227, Recall: 0.9271, Precision: 0.9238
+Test Loss: 0.2969
+Test Accuracy: 0.9291, F1 Score: 0.8958, Recall: 0.9119, Precision: 0.9035
+--------------------------------------------------------------------------------
+Epoch 22/400
+Training Loss: 0.5127
+Validation Loss: 0.2813
+Validation Accuracy: 0.9390, F1 Score: 0.9225, Recall: 0.9264, Precision: 0.9232
+Test Loss: 0.3144
+Test Accuracy: 0.9353, F1 Score: 0.9042, Recall: 0.9182, Precision: 0.9112
+--------------------------------------------------------------------------------
+Epoch 23/400
+Training Loss: 0.4964
+Validation Loss: 0.2949
+Validation Accuracy: 0.9346, F1 Score: 0.9166, Recall: 0.9199, Precision: 0.9189
+Test Loss: 0.3284
+Test Accuracy: 0.9273, F1 Score: 0.9028, Recall: 0.9136, Precision: 0.9154
+--------------------------------------------------------------------------------
+Epoch 24/400
+Training Loss: 0.4715
+Validation Loss: 0.2717
+Validation Accuracy: 0.9395, F1 Score: 0.9221, Recall: 0.9257, Precision: 0.9260
+Test Loss: 0.2963
+Test Accuracy: 0.9384, F1 Score: 0.9049, Recall: 0.9191, Precision: 0.9118
+--------------------------------------------------------------------------------
+Epoch 25/400
+Training Loss: 0.4599
+Validation Loss: 0.2575
+Validation Accuracy: 0.9423, F1 Score: 0.9262, Recall: 0.9309, Precision: 0.9270
+Test Loss: 0.2715
+Test Accuracy: 0.9433, F1 Score: 0.9192, Recall: 0.9318, Precision: 0.9257
+--------------------------------------------------------------------------------
+Epoch 26/400
+Training Loss: 0.4636
+Validation Loss: 0.2524
+Validation Accuracy: 0.9445, F1 Score: 0.9284, Recall: 0.9319, Precision: 0.9293
+Test Loss: 0.2694
+Test Accuracy: 0.9433, F1 Score: 0.9188, Recall: 0.9305, Precision: 0.9243
+--------------------------------------------------------------------------------
+Epoch 27/400
+Training Loss: 0.4470
+Validation Loss: 0.2878
+Validation Accuracy: 0.9347, F1 Score: 0.9179, Recall: 0.9224, Precision: 0.9188
+Test Loss: 0.2941
+Test Accuracy: 0.9396, F1 Score: 0.9147, Recall: 0.9266, Precision: 0.9247
+--------------------------------------------------------------------------------
+Epoch 28/400
+Training Loss: 0.4370
+Validation Loss: 0.2431
+Validation Accuracy: 0.9469, F1 Score: 0.9321, Recall: 0.9363, Precision: 0.9325
+Test Loss: 0.2731
+Test Accuracy: 0.9458, F1 Score: 0.9191, Recall: 0.9312, Precision: 0.9239
+--------------------------------------------------------------------------------
+Epoch 29/400
+Training Loss: 0.4390
+Validation Loss: 0.2342
+Validation Accuracy: 0.9480, F1 Score: 0.9333, Recall: 0.9371, Precision: 0.9339
+Test Loss: 0.2457
+Test Accuracy: 0.9470, F1 Score: 0.9203, Recall: 0.9330, Precision: 0.9241
+--------------------------------------------------------------------------------
+Epoch 30/400
+Training Loss: 0.4237
+Validation Loss: 0.2485
+Validation Accuracy: 0.9464, F1 Score: 0.9316, Recall: 0.9354, Precision: 0.9318
+Test Loss: 0.2583
+Test Accuracy: 0.9476, F1 Score: 0.9232, Recall: 0.9332, Precision: 0.9327
+--------------------------------------------------------------------------------
+Epoch 31/400
+Training Loss: 0.4276
+Validation Loss: 0.2511
+Validation Accuracy: 0.9451, F1 Score: 0.9310, Recall: 0.9354, Precision: 0.9317
+Test Loss: 0.2726
+Test Accuracy: 0.9421, F1 Score: 0.9134, Recall: 0.9278, Precision: 0.9170
+--------------------------------------------------------------------------------
+Epoch 32/400
+Training Loss: 0.4212
+Validation Loss: 0.2355
+Validation Accuracy: 0.9479, F1 Score: 0.9325, Recall: 0.9364, Precision: 0.9328
+Test Loss: 0.2551
+Test Accuracy: 0.9452, F1 Score: 0.9190, Recall: 0.9300, Precision: 0.9262
+--------------------------------------------------------------------------------
+Epoch 33/400
+Training Loss: 0.4260
+Validation Loss: 0.2276
+Validation Accuracy: 0.9511, F1 Score: 0.9378, Recall: 0.9409, Precision: 0.9386
+Test Loss: 0.2648
+Test Accuracy: 0.9489, F1 Score: 0.9287, Recall: 0.9367, Precision: 0.9340
+--------------------------------------------------------------------------------
+Epoch 34/400
+Training Loss: 0.4237
+Validation Loss: 0.2340
+Validation Accuracy: 0.9484, F1 Score: 0.9336, Recall: 0.9362, Precision: 0.9357
+Test Loss: 0.2550
+Test Accuracy: 0.9476, F1 Score: 0.9198, Recall: 0.9319, Precision: 0.9224
+--------------------------------------------------------------------------------
+Epoch 35/400
+Training Loss: 0.4298
+Validation Loss: 0.2409
+Validation Accuracy: 0.9480, F1 Score: 0.9341, Recall: 0.9385, Precision: 0.9341
+Test Loss: 0.2650
+Test Accuracy: 0.9445, F1 Score: 0.9159, Recall: 0.9278, Precision: 0.9243
+--------------------------------------------------------------------------------
+Epoch 36/400
+Training Loss: 0.4085
+Validation Loss: 0.2591
+Validation Accuracy: 0.9429, F1 Score: 0.9269, Recall: 0.9318, Precision: 0.9275
+Test Loss: 0.2644
+Test Accuracy: 0.9396, F1 Score: 0.9149, Recall: 0.9275, Precision: 0.9228
+--------------------------------------------------------------------------------
+Epoch 37/400
+Training Loss: 0.4126
+Validation Loss: 0.2215
+Validation Accuracy: 0.9529, F1 Score: 0.9408, Recall: 0.9431, Precision: 0.9420
+Test Loss: 0.2422
+Test Accuracy: 0.9495, F1 Score: 0.9216, Recall: 0.9332, Precision: 0.9265
+--------------------------------------------------------------------------------
+Epoch 38/400
+Training Loss: 0.4044
+Validation Loss: 0.2347
+Validation Accuracy: 0.9505, F1 Score: 0.9373, Recall: 0.9407, Precision: 0.9377
+Test Loss: 0.2421
+Test Accuracy: 0.9569, F1 Score: 0.9404, Recall: 0.9496, Precision: 0.9465
+--------------------------------------------------------------------------------
+Epoch 39/400
+Training Loss: 0.3944
+Validation Loss: 0.2283
+Validation Accuracy: 0.9505, F1 Score: 0.9373, Recall: 0.9410, Precision: 0.9380
+Test Loss: 0.2445
+Test Accuracy: 0.9445, F1 Score: 0.9193, Recall: 0.9311, Precision: 0.9252
+--------------------------------------------------------------------------------
+Epoch 40/400
+Training Loss: 0.4022
+Validation Loss: 0.2395
+Validation Accuracy: 0.9467, F1 Score: 0.9331, Recall: 0.9377, Precision: 0.9330
+Test Loss: 0.2657
+Test Accuracy: 0.9402, F1 Score: 0.9179, Recall: 0.9287, Precision: 0.9280
+--------------------------------------------------------------------------------
+Epoch 41/400
+Training Loss: 5.0588
+Validation Loss: 6.2076
+Validation Accuracy: 0.0100, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.2029
+Test Accuracy: 0.0099, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 42/400
+Training Loss: 6.1839
+Validation Loss: 6.1678
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1602
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 43/400
+Training Loss: 6.1620
+Validation Loss: 6.1570
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1479
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 44/400
+Training Loss: 6.1557
+Validation Loss: 6.1535
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1437
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 45/400
+Training Loss: 6.1537
+Validation Loss: 6.1523
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1421
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 46/400
+Training Loss: 6.1529
+Validation Loss: 6.1518
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1414
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 47/400
+Training Loss: 6.1525
+Validation Loss: 6.1516
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1410
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 48/400
+Training Loss: 6.1526
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1408
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 49/400
+Training Loss: 6.1531
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1407
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 50/400
+Training Loss: 6.1523
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1406
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 51/400
+Training Loss: 6.1522
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1406
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 52/400
+Training Loss: 6.1521
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1406
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 53/400
+Training Loss: 6.1535
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1406
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 54/400
+Training Loss: 6.1540
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1405
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 55/400
+Training Loss: 6.1524
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1406
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 56/400
+Training Loss: 6.1522
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1406
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 57/400
+Training Loss: 6.1524
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1405
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 58/400
+Training Loss: 6.1523
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1405
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 59/400
+Training Loss: 6.1527
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1405
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 60/400
+Training Loss: 6.1523
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1405
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 61/400
+Training Loss: 6.1523
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1405
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 62/400
+Training Loss: 6.1535
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1406
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 63/400
+Training Loss: 6.1527
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1406
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 64/400
+Training Loss: 6.1524
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1406
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+Epoch 65/400
+Training Loss: 6.1522
+Validation Loss: 6.1515
+Validation Accuracy: 0.0138, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+Test Loss: 6.1405
+Test Accuracy: 0.0136, F1 Score: 0.0000, Recall: 0.0018, Precision: 0.0000
+--------------------------------------------------------------------------------
+slurmstepd: error: *** JOB 15542453 ON cdr2537 CANCELLED AT 2023-10-18T06:54:32 ***
